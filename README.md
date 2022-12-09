@@ -21,7 +21,7 @@ Structure of File Directory
 
         └── bd_net.h5
         
-    	   └── bd_weights.h5
+        └── bd_weights.h5
      
         └── bd_repaired_2.h5 
 
