@@ -23,18 +23,18 @@ Structure of File Directory
         
     	   └── bd_weights.h5
      
+        └── bd_repaired_2.h5 
 
-​       └── bd_repaired_2.h5 
+        └── bd_repaired_2_weights.h5
 
-​       └── bd_repaired_2_weights.h5
+        └── bd_repaired_4.h5 
 
-​       └── bd_repaired_4.h5 
+        └── bd_repaired_4_weights.h5
 
-​       └── bd_repaired_4_weights.h5
+       └── bd_repaired_10.h5 
 
-​       └── bd_repaired_10.h5 
+       └── bd_repaired_10_weights.h5
 
-​       └── bd_repaired_10_weights.h5
 ├── eval.py
 
 ├──  Homework-2.ipynb
