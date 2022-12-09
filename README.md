@@ -23,17 +23,17 @@ Structure of File Directory
         
         └── bd_weights.h5
      
-        └── bd_repaired_2.h5 
+        └── repaired_2.h5 
 
-        └── bd_repaired_2_weights.h5
+        └── repaired_2_weights.h5
 
-        └── bd_repaired_4.h5 
+        └── repaired_4.h5 
 
-        └── bd_repaired_4_weights.h5
+        └── repaired_4_weights.h5
 
-       └── bd_repaired_10.h5 
+        └── repaired_10.h5 
 
-       └── bd_repaired_10_weights.h5
+        └── repaired_10_weights.h5
 
 ├── eval.py
 
@@ -41,6 +41,6 @@ Structure of File Directory
 
 For Homework-2.ipynb, just run it directly. For eval.py, run 
 
-python3 eval.py D:/QMDownload/Python/Lab3/cl/test.h5 D:/QMDownload/Python/models/repaire\_2.h5
+python3 eval.py D:/QMDownload/Python/Lab3/cl/test.h5 D:/QMDownload/Python/models/repaire_2.h5
 
 in the terminal.
